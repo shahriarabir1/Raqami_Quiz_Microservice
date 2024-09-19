@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24bf4994-4abb-4575-9d36-a28cf353ca5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/Model/AnswerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/Model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/Model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/QuizMicroOneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/repository/QuestionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/java/com/raqami/universe/Quiz_MicroOne/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroOne/src/test/java/com/raqami/universe/Quiz_MicroOne/QuizMicroOneApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/Model/AnswerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/Model/QuestionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/Model/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/Model/QuizDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/QuizMicroTwoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/feign/GetQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/repository/QuizRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/java/com/raqami/universe/Quiz_MicroTwo/service/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz-MicroTwo/src/test/java/com/raqami/universe/Quiz_MicroTwo/QuizMicroTwoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/src/main/java/com/raqami/universe/Registry_Service/RegistryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registry-Service/src/test/java/com/raqami/universe/Registry_Service/RegistryServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2mIoXWuRQly6I0fUprVQwpVIRiv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WORK/WEB/Spring/MicroService",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24bf4994-4abb-4575-9d36-a28cf353ca5c" name="Changes" comment="" />
+      <created>1726773490172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726773490172</updated>
+      <workItem from="1726773491173" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
